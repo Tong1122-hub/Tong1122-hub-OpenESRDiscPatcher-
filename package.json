@@ -1,0 +1,27 @@
+{
+  "name": "tong1122-hub-openesrdiscpatcher-",
+  "version": "1.0.0",
+  "description": "Installation and quick run",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tong1122-hub/Tong1122-hub-OpenESRDiscPatcher-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tong1122-hub/Tong1122-hub-OpenESRDiscPatcher-/issues"
+  },
+  "homepage": "https://github.com/Tong1122-hub/Tong1122-hub-OpenESRDiscPatcher-#readme",
+  "devDependencies": {
+    "axios": "^1.18.1",
+    "eslint": "^10.8.0",
+    "express": "^5.2.1"
+  }
+}
